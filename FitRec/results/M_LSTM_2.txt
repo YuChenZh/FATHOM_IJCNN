@@ -1,0 +1,254 @@
+task_num:30
+lstm_layer:64
+drop:0.2
+r_drop:0.2
+shared_layer:576
+dense_num:128
+running time:1989.702397108078
+Current file index is: 0
+Smape: 0.2452983558177948
+Smape_speed: 0.27240777015686035
+Smape_heartRate: 0.30190086364746094
+mae: 84.08993
+mae_speed: 8.803261
+mae_heartRate: 8.529633
+
+Current file index is: 1
+Smape: 0.37470540404319763
+Smape_speed: 0.38031452894210815
+Smape_heartRate: 0.4421640932559967
+mae: 80.975426
+mae_speed: 4.148821
+mae_heartRate: 4.456971
+
+Current file index is: 2
+Smape: 0.0664127990603447
+Smape_speed: 0.2430153787136078
+Smape_heartRate: 0.22613808512687683
+mae: 79.331764
+mae_speed: 8.881945
+mae_heartRate: 7.5670443
+
+Current file index is: 3
+Smape: 0.22935862839221954
+Smape_speed: 0.14133070409297943
+Smape_heartRate: 0.1573331654071808
+mae: 77.93289
+mae_speed: 5.2295923
+mae_heartRate: 3.8084426
+
+Current file index is: 4
+Smape: 0.23400019109249115
+Smape_speed: 0.6042588949203491
+Smape_heartRate: 1.0628172159194946
+mae: 77.37347
+mae_speed: 7.8264637
+mae_heartRate: 16.441141
+
+Current file index is: 5
+Smape: 0.1948523372411728
+Smape_speed: 0.3307018280029297
+Smape_heartRate: 0.381987988948822
+mae: 74.06837
+mae_speed: 7.282922
+mae_heartRate: 9.464392
+
+Current file index is: 6
+Smape: 0.5078957676887512
+Smape_speed: 0.6140292286872864
+Smape_heartRate: 0.7734891176223755
+mae: 72.66069
+mae_speed: 9.961283
+mae_heartRate: 15.657661
+
+Current file index is: 7
+Smape: 0.3039567172527313
+Smape_speed: 0.06400609761476517
+Smape_heartRate: 0.09560766816139221
+mae: 88.65379
+mae_speed: 6.653616
+mae_heartRate: 6.65394
+
+Current file index is: 8
+Smape: 0.201528400182724
+Smape_speed: 0.043941937386989594
+Smape_heartRate: 0.05874304845929146
+mae: 74.29623
+mae_speed: 6.0525637
+mae_heartRate: 6.563618
+
+Current file index is: 9
+Smape: 0.16324208676815033
+Smape_speed: 0.21378496289253235
+Smape_heartRate: 0.1577259600162506
+mae: 78.26169
+mae_speed: 6.1775384
+mae_heartRate: 4.4023085
+
+Current file index is: 10
+Smape: 0.30463138222694397
+Smape_speed: 0.4393306076526642
+Smape_heartRate: 0.4433939456939697
+mae: 81.34818
+mae_speed: 11.075775
+mae_heartRate: 14.071495
+
+Current file index is: 11
+Smape: 0.10642066597938538
+Smape_speed: 0.03967367112636566
+Smape_heartRate: 0.08320821821689606
+mae: 80.07686
+mae_speed: 2.8828754
+mae_heartRate: 4.050354
+
+Current file index is: 12
+Smape: 0.14025145769119263
+Smape_speed: 0.09719472378492355
+Smape_heartRate: 0.05028245598077774
+mae: 81.584854
+mae_speed: 2.2818737
+mae_heartRate: 1.8599119
+
+Current file index is: 13
+Smape: 0.27900031208992004
+Smape_speed: 1.0147186517715454
+Smape_heartRate: 1.0177026987075806
+mae: 61.067684
+mae_speed: 11.901589
+mae_heartRate: 13.350796
+
+Current file index is: 14
+Smape: 0.4470069706439972
+Smape_speed: 0.06923682987689972
+Smape_heartRate: 0.12028232216835022
+mae: 79.735916
+mae_speed: 8.107831
+mae_heartRate: 9.735206
+
+Current file index is: 15
+Smape: 0.15321433544158936
+Smape_speed: 0.25066596269607544
+Smape_heartRate: 0.1932172328233719
+mae: 80.415306
+mae_speed: 8.520488
+mae_heartRate: 7.1795125
+
+Current file index is: 16
+Smape: 0.41802772879600525
+Smape_speed: 0.3154029846191406
+Smape_heartRate: 0.41220587491989136
+mae: 69.69703
+mae_speed: 6.926484
+mae_heartRate: 7.5681586
+
+Current file index is: 17
+Smape: 0.34268122911453247
+Smape_speed: 0.24706442654132843
+Smape_heartRate: 0.21430177986621857
+mae: 76.59356
+mae_speed: 9.493568
+mae_heartRate: 9.389589
+
+Current file index is: 18
+Smape: 0.2371455729007721
+Smape_speed: 0.08233995735645294
+Smape_heartRate: 0.0780169814825058
+mae: 80.22972
+mae_speed: 3.8846827
+mae_heartRate: 3.3472614
+
+Current file index is: 19
+Smape: 0.1962030977010727
+Smape_speed: 0.2449675351381302
+Smape_heartRate: 0.24519476294517517
+mae: 76.493996
+mae_speed: 3.1664226
+mae_heartRate: 4.077839
+
+Current file index is: 20
+Smape: 0.4292292892932892
+Smape_speed: 0.15865597128868103
+Smape_heartRate: 1.0019547939300537
+mae: 75.1311
+mae_speed: 4.2155104
+mae_heartRate: 4.644017
+
+Current file index is: 21
+Smape: 0.2943401634693146
+Smape_speed: 0.1367192566394806
+Smape_heartRate: 0.16244353353977203
+mae: 79.14172
+mae_speed: 3.8599863
+mae_heartRate: 4.7224445
+
+Current file index is: 22
+Smape: 0.17228063941001892
+Smape_speed: 0.11526143550872803
+Smape_heartRate: 0.14769050478935242
+mae: 75.3314
+mae_speed: 4.2318487
+mae_heartRate: 5.342431
+
+Current file index is: 23
+Smape: 0.2245301753282547
+Smape_speed: 0.7628946900367737
+Smape_heartRate: 0.7565311193466187
+mae: 91.99064
+mae_speed: 14.411046
+mae_heartRate: 17.705914
+
+Current file index is: 24
+Smape: 0.24355532228946686
+Smape_speed: 0.13010703027248383
+Smape_heartRate: 0.11242014914751053
+mae: 77.47425
+mae_speed: 10.675464
+mae_heartRate: 4.8268785
+
+Current file index is: 25
+Smape: 0.8486368656158447
+Smape_speed: 1.0295733213424683
+Smape_heartRate: 1.0194370746612549
+mae: 79.56887
+mae_speed: 9.644494
+mae_heartRate: 9.19697
+
+Current file index is: 26
+Smape: 0.1557118147611618
+Smape_speed: 0.041780587285757065
+Smape_heartRate: 0.07146795094013214
+mae: 80.29568
+mae_speed: 5.0518684
+mae_heartRate: 5.9924307
+
+Current file index is: 27
+Smape: 0.3335624933242798
+Smape_speed: 0.12654608488082886
+Smape_heartRate: 0.19790761172771454
+mae: 80.28618
+mae_speed: 4.7129717
+mae_heartRate: 6.4667854
+
+Current file index is: 28
+Smape: 0.3003045320510864
+Smape_speed: 0.4312513768672943
+Smape_heartRate: 0.37120726704597473
+mae: 69.32532
+mae_speed: 7.2676554
+mae_heartRate: 7.4579315
+
+Current file index is: 29
+Smape: 0.452138215303421
+Smape_speed: 0.15071573853492737
+Smape_heartRate: 0.1598631590604782
+mae: 82.48712
+mae_speed: 4.7828865
+mae_heartRate: 4.340501
+
+avg_Smape: 0.2866707650323709
+avg_sum_Smape_speed: 0.2930630724877119
+avg_sum_Smape_heartRate: 0.35055455478529135
+avg_mae: 78.19732093811035
+avg_sum_mae_speed: 6.937110877037048
+avg_sum_mae_heartRate: 7. time:1989.702397108078629052607218425
+training

@@ -1,0 +1,123 @@
+Current file index is: 0
+Smape_Speed: 0.067633209788811
+mae_Speed: 9.596333333333334
+
+Current file index is: 1
+Smape_Speed: 0.06493240355631252
+mae_Speed: 8.606833333333332
+
+Current file index is: 2
+Smape_Speed: 0.04655119574832522
+mae_Speed: 6.780666666666667
+
+Current file index is: 3
+Smape_Speed: 0.06751327777292056
+mae_Speed: 8.4375
+
+Current file index is: 4
+Smape_Speed: 0.057276559766708354
+mae_Speed: 6.713666666666667
+
+Current file index is: 5
+Smape_Speed: 0.057438137742316105
+mae_Speed: 7.797166666666667
+
+Current file index is: 6
+Smape_Speed: 0.10670801682319533
+mae_Speed: 12.587333333333333
+
+Current file index is: 7
+Smape_Speed: 0.08442254944737143
+mae_Speed: 11.365666666666666
+
+Current file index is: 8
+Smape_Speed: 0.038568528685286936
+mae_Speed: 5.311
+
+Current file index is: 9
+Smape_Speed: 0.07978983876112722
+mae_Speed: 10.047833333333333
+
+Current file index is: 10
+Smape_Speed: 0.09606642747756458
+mae_Speed: 14.356666666666667
+
+Current file index is: 11
+Smape_Speed: 0.05771937619227616
+mae_Speed: 8.807833333333333
+
+Current file index is: 12
+Smape_Speed: 0.05755526459071431
+mae_Speed: 8.708333333333334
+
+Current file index is: 13
+Smape_Speed: 0.06612113661996724
+mae_Speed: 6.375333333333334
+
+Current file index is: 14
+Smape_Speed: 0.08334595925239248
+mae_Speed: 10.853333333333333
+
+Current file index is: 15
+Smape_Speed: 0.034357307029217035
+mae_Speed: 4.713166666666667
+
+Current file index is: 16
+Smape_Speed: 0.0825672056362384
+mae_Speed: 10.134166666666667
+
+Current file index is: 17
+Smape_Speed: 0.08585245666065168
+mae_Speed: 11.741333333333333
+
+Current file index is: 18
+Smape_Speed: 0.06971441441458885
+mae_Speed: 9.321
+
+Current file index is: 19
+Smape_Speed: 0.06152887128611909
+mae_Speed: 8.360166666666666
+
+Current file index is: 20
+Smape_Speed: 0.06806531080864531
+mae_Speed: 8.373166666666666
+
+Current file index is: 21
+Smape_Speed: 0.057215877646106104
+mae_Speed: 8.196833333333334
+
+Current file index is: 22
+Smape_Speed: 0.05480955504513939
+mae_Speed: 6.770166666666666
+
+Current file index is: 23
+Smape_Speed: 0.0436640805904269
+mae_Speed: 6.320666666666667
+
+Current file index is: 24
+Smape_Speed: 0.05256705506322507
+mae_Speed: 6.4735
+
+Current file index is: 25
+Smape_Speed: 0.04219850494717053
+mae_Speed: 6.21
+
+Current file index is: 26
+Smape_Speed: 0.059797531794369425
+mae_Speed: 7.638166666666667
+
+Current file index is: 27
+Smape_Speed: 0.049860740339343956
+mae_Speed: 6.383333333333334
+
+Current file index is: 28
+Smape_Speed: 0.06362836110841079
+mae_Speed: 7.784833333333333
+
+Current file index is: 29
+Smape_Speed: 0.07214705409626625
+mae_Speed: 10.743666666666666
+
+avg_sum_Smape_speed: 0.06432054028970695
+avg_sum_mae_speed: 8.516988888888886
+training time:11.591999292373657

@@ -1,0 +1,46 @@
+task_num:3
+lstm_layer:64
+drop:0.2
+r_drop:0.2
+l2_value:0.001
+shared_layer:576
+dense_num:64
+Current file index is: 0
+Smape: 1.9265010356903076
+Smape_PM25: 2.0
+Smape_PM10: 2.0
+Smape_NO2: 2.0
+Smape_CO: 2.0
+Smape_O3: 2.0
+Smape_SO2: 2.0
+mae: 48.897587
+
+Current file index is: 1
+Smape: 1.8074533939361572
+Smape_PM25: 1.6666666269302368
+Smape_PM10: 1.6666666269302368
+Smape_NO2: 1.6666666269302368
+Smape_CO: 1.6666666269302368
+Smape_O3: 1.6666666269302368
+Smape_SO2: 1.6666666269302368
+mae: 52.156784
+
+Current file index is: 2
+Smape: 1.9570393562316895
+Smape_PM25: 2.0
+Smape_PM10: 2.0
+Smape_NO2: 2.0
+Smape_CO: 2.0
+Smape_O3: 2.0
+Smape_SO2: 2.0
+mae: 56.348373
+
+avg_Smape: 1.8969979286193848
+avg_mae: 52.46758143107096
+avg_Smape_PM25: 1.8888888756434123
+avg_Smape_PM10: 1.8888888756434123
+avg_Smape_NO2: 1.8888888756434123
+avg_Smape_CO: 1.8888888756434123
+avg_Smape_O3: 1.8888888756434123
+avg_Smape_SO2: 1.8888888756434123
+training time:287.2148549556732
