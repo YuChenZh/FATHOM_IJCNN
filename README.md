@@ -2,6 +2,8 @@
 
 A hierarchical attention model for device sensor data analytics. Task-specific attention at each device is developed to evaluate personal feature correlations, a temporal global attention layer on shared representations is created to evaluate cross-device temporal correlations.
 
+Paper link: https://ieeexplore.ieee.org/abstract/document/9207508
+
 ## Datasets
 Three real-world sensor datasets.
 
