@@ -5,9 +5,11 @@ A hierarchical attention model for device sensor data analytics. Task-specific a
 
 ## Model Summary 
 <p align="center">
-  <img width="580" src="model.jpg">
+  <img width="620" src="model.jpg">
 </p>
 
 ## Key Results
 
-<img src="results.jpg" width="580">
+<p align="center">
+  <img width="620" src="results.jpg">
+</p>
