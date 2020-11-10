@@ -7,5 +7,9 @@ A hierarchical attention model for device sensor data analytics. Task-specific a
 
 ![FATHOM Model](model.jpg)
 
+## Key Results
+
+![key results](results.jpg)
+
 
 
