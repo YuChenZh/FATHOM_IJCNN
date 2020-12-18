@@ -16,8 +16,3 @@ Three real-world sensor datasets.
   <img width="620" src="model.jpg">
 </p>
 
-## Key Results
-
-<p align="center">
-  <img width="620" src="results.jpg">
-</p>
